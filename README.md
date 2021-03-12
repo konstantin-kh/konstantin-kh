@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for collaborating with a company that has interesting projects and opportunities to career grows
-- 📫 How to reach me: Skype - kostya_mnml
+- 📫 How to reach me: Skype - kostya_mnml, Linkedin - https://www.linkedin.com/in/konstantin-pomazan/
 	
 
 <!---
